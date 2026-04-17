@@ -1,3 +1,3 @@
 # task_app
 
-A new Flutter project.
+Projeto da matéria DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS
