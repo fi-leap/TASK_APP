@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# Allow directory traversal
+!*/
+
+# Allow only .dart files
+!*.dart
+
+# Allow essential project files
+!.gitignore
+!pubspec.yaml
+!analysis_options.yaml
+!README.md
